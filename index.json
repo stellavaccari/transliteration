@@ -1,86 +1,86 @@
 {
     "M" : {
-        "geroglifico" : "0X1313F",
-        "pronuncia" : ""
+        "hieroglyphics" : "0X1313F",
+        "pronunciation" : ""
     },
     "b" : {
-        "geroglifico" : "0X130C0",
-        "pronuncia" : "/b/"
+        "hieroglyphics" : "0X130C0",
+        "pronunciation" : "/b/"
     },
     "y" : {
-        "geroglifico" : "𓏭",
-        "pronuncia" : "/iː/"
+        "hieroglyphics" : "𓏭",
+        "pronunciation" : "/iː/"
     },
     "w" : {
-        "geroglifico" : "𓅱",
-        "pronuncia" : "/w, uː/"
+        "hieroglyphics" : "𓅱",
+        "pronunciation" : "/w, uː/"
     },
     "p" : {
-        "geroglifico" : "𓊪",
-        "pronuncia" : "/p/"
+        "hieroglyphics" : "𓊪",
+        "pronunciation" : "/p/"
     },
     "f" : {
-        "geroglifico" : "𓆑",
-        "pronuncia" : "/f/"
+        "hieroglyphics" : "𓆑",
+        "pronunciation" : "/f/"
     },
     "n" : {
-        "geroglifico" : "𓈖",
-        "pronuncia" : "/n/"
+        "hieroglyphics" : "𓈖",
+        "pronunciation" : "/n/"
     },
     "r" : {
-        "geroglifico" : "𓂋",
-        "pronuncia" : "/r/"
+        "hieroglyphics" : "𓂋",
+        "pronunciation" : "/r/"
     },
     "h" : {
-        "geroglifico" : "𓉔",
-        "pronuncia" : "/h/"
+        "hieroglyphics" : "𓉔",
+        "pronunciation" : "/h/"
     },
     "ḫ" : {
-        "geroglifico" : "0X1340D",
-        "pronuncia" : "/x/"
+        "hieroglyphics" : "0X1340D",
+        "pronunciation" : "/x/"
     },
     "ḥ" : {
-        "geroglifico" : "𓎛",
-        "pronuncia" : "/ħ, h/"
+        "hieroglyphics" : "𓎛",
+        "pronunciation" : "/ħ, h/"
     },
     "ẖ" : {
-        "geroglifico" : "𓄡",
-        "pronuncia" : ""
+        "hieroglyphics" : "𓄡",
+        "pronunciation" : ""
     },
     "ḳ" : {
-        "geroglifico" : "𓈎",
-        "pronuncia" : "/k, q/"
+        "hieroglyphics" : "𓈎",
+        "pronunciation" : "/k, q/"
     },
     "g" : {
-        "geroglifico" : "𓎼",
-        "pronuncia" : "/g/"
+        "hieroglyphics" : "𓎼",
+        "pronunciation" : "/g/"
     },
     "t" : {
-        "geroglifico" : "𓏏",
-        "pronuncia" : ""
+        "hieroglyphics" : "𓏏",
+        "pronunciation" : ""
     },
     "ṯ" : {
-        "geroglifico" : "𓍿",
-        "pronuncia" : "/t/"
+        "hieroglyphics" : "𓍿",
+        "pronunciation" : "/t/"
     },
     "d" : {
-        "geroglifico" : "𓂧",
-        "pronuncia" : "/d/"
+        "hieroglyphics" : "𓂧",
+        "pronunciation" : "/d/"
     },
     "ḏ" : {
-        "geroglifico" : "𓆓",
-        "pronuncia" : "/dʒ/"
+        "hieroglyphics" : "𓆓",
+        "pronunciation" : "/dʒ/"
     },
     "ꜣ" : {
-        "geroglifico" : "𓄿",
-        "pronuncia" : "/ɑ(ː)/"
+        "hieroglyphics" : "𓄿",
+        "pronunciation" : "/ɑ(ː)/"
     },
     "ᶜ" : {
-        "geroglifico" : "𓂝",
-        "pronuncia" : "/ɑː/"
+        "hieroglyphics" : "𓂝",
+        "pronunciation" : "/ɑː/"
     },
     "ı͗" : {
-        "geroglifico" : "𓇋",
-        "pronuncia" : "/i(ː), j/"
+        "hieroglyphics" : "𓇋",
+        "pronunciation" : "/i(ː), j/"
     }
 }
